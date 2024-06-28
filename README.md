@@ -3,7 +3,7 @@
 Bienvenido a mi perfil de GitHub. Aquí encontrarás información sobre mis proyectos, intereses y cómo contactarme.
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/154709072?v=4" width="150" height="150" alt="Juan José Lobatón Mateos">
+  <img src="https://avatars.githubusercontent.com/u/your-username" width="150" height="150" alt="Juan José Lobatón Mateos">
   <h2>Juan José Lobatón Mateos</h2>
   <p>Desarrollador apasionado por la tecnología y la programación.</p>
 </div>
@@ -25,12 +25,19 @@ Aquí tienes algunos de mis proyectos más destacados:
 Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=C#&logoColor=black" alt="C#">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans">
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/-XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+  <img src="https://img.shields.io/badge/-iReports-4B8BBE?style=for-the-badge&logo=ireports&logoColor=white" alt="iReports">
 </div>
 
 ## 📫 Contacto
@@ -56,3 +63,4 @@ Estoy abierto a colaborar en proyectos interesantes y a discutir nuevas ideas. P
 </div>
 
 ¡Gracias por visitar mi perfil! Si te gustan mis proyectos, no dudes en dejar una estrella ⭐ o en contactar conmigo para colaborar.
+
