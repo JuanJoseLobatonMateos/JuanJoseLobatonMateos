@@ -12,6 +12,8 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás información sobre mis proy
 
 Soy un desarrollador con experiencia en diversas áreas, incluyendo desarrollo web, análisis de datos y automatización de procesos. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
 
+A los 40 años, decidí dar un giro en mi vida laboral y dedicarme a lo que realmente me apasiona: la programación. Actualmente, soy estudiante de CFGS de Desarrollo de Aplicaciones Multiplataforma, lo que me ha permitido adquirir habilidades y conocimientos en diferentes tecnologías y herramientas.
+
 ## 🚀 Proyectos Destacados
 
 Aquí tienes algunos de mis proyectos más destacados:
@@ -40,27 +42,37 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
   <img src="https://img.shields.io/badge/-iReports-4B8BBE?style=for-the-badge&logo=ireports&logoColor=white" alt="iReports">
 </div>
 
-## 📫 Contacto
+## 🚀 GitHub Actions
 
-Estoy abierto a colaborar en proyectos interesantes y a discutir nuevas ideas. Puedes contactarme a través de:
+Utilizo GitHub Actions para automatizar flujos de trabajo de desarrollo, incluyendo integración continua (CI) y entrega continua (CD). Aquí hay algunos ejemplos de cómo uso GitHub Actions en mis proyectos:
 
-- **Correo electrónico**: <a href="mailto:juan.jose.lobaton@ejemplo.com">juan.jose.lobaton@ejemplo.com</a>
-- **LinkedIn**: [linkedin.com/in/juan-jose-lobaton-mateos](https://www.linkedin.com/in/juan-jose-lobaton-mateos)
-- **Twitter**: [@JuanJoseLobaton](https://twitter.com/JuanJoseLobaton)
+- **Automatización de pruebas**: Cada vez que hago un push a la rama principal, se ejecutan pruebas automatizadas para asegurar que el código sea estable.
+- **Despliegue automático**: Después de pasar todas las pruebas, el código se despliega automáticamente a un entorno de producción.
+- **Análisis de código**: Ejecuto análisis de código estático para mantener la calidad del código y detectar posibles errores.
 
-## 📊 Estadísticas de GitHub
+Aquí tienes un ejemplo básico de un workflow de GitHub Actions que ejecuta pruebas en una aplicación Java:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanJoseLobatonMateos&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-</div>
+```yaml
+name: Java CI
 
-## 😂 Un Poco de Humor
+on: [push, pull_request]
 
-> "En un día ordinario de programación, 'compilar' siempre se siente como 'cargar la página'".
+jobs:
+  build:
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" alt="Gif de Programación">
-</div>
+    runs-on: ubuntu-latest
 
-¡Gracias por visitar mi perfil! Si te gustan mis proyectos, no dudes en dejar una estrella ⭐ o en contactar conmigo para colaborar.
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
 
+    - name: Set up JDK 11
+      uses: actions/setup-java@v2
+      with:
+        java-version: '11'
+
+    - name: Build with Gradle
+      run: ./gradlew build
+
+    - name: Run tests
+      run: ./gradlew test
