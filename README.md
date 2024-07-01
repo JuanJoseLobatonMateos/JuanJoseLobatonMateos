@@ -3,7 +3,7 @@
 Bienvenido a mi perfil de GitHub. Aquí encontrarás información sobre mis proyectos, intereses y cómo contactarme.
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/media/Desarrollador Aplicaciones Multiplataforma.png" width="150" height="150" alt="Juan José Lobatón Mateos">
+  <img src="https://github.com/JuanJoseLobatonMateos/JuanJoseLobatonMateos/tree/main/media#:~:text=..-,Desarrollador%20Aplicaciones%20Multiplataforma.png,-subida%20del%20banner" width="150" height="150" alt="Juan José Lobatón Mateos">
   <h2>Juan José Lobatón Mateos</h2>
   <p>Desarrollador apasionado por la tecnología y la programación.</p>
 </div>
