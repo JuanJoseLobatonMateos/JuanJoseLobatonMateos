@@ -36,9 +36,9 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 Estoy abierto a colaborar en proyectos interesantes y a discutir nuevas ideas. Puedes contactarme a través de:
 
-- **Correo electrónico**: <a href="mailto:juan.jose.lobaton@ejemplo.com">juan.jose.lobaton@ejemplo.com</a>
-- **LinkedIn**: [linkedin.com/in/juan-jose-lobaton-mateos](https://www.linkedin.com/in/juan-jose-lobaton-mateos)
-- **Twitter**: [@JuanJoseLobaton](https://twitter.com/JuanJoseLobaton)
+- **Correo electrónico**: <a href="mailto:jlobatonm@gmail.com">juan.jose.lobaton@ejemplo.com</a>
+- **LinkedIn**: [linkedin.com/in/juan-jose-lobaton-mateos](https://www.linkedin.com/in/jjlobatonmateos)
+- **Twitter**: [@JuanJoseLobaton](https://twitter.com/juandelamara)
 
 ## 📊 Estadísticas de GitHub
 
