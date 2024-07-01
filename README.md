@@ -1,11 +1,11 @@
+# ¡Hola, soy Juan Lobatón! 👋
 
+Bienvenido a mi perfil de GitHub. Aquí encontrarás información sobre mis proyectos, intereses y cómo contactarme.
 
 <div align="center">
   <img src="media/Desarrollador Aplicaciones Multiplataforma.png" style="width: 100%; height: auto;">
 </div>
-# ¡Hola, soy Juan José Lobatón Mateos! 👋
 
-Bienvenido a mi perfil de GitHub. Aquí encontrarás información sobre mis proyectos, intereses y cómo contactarme.
 
 ## 📝 Sobre mí
 
