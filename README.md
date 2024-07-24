@@ -16,7 +16,6 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 <!--START_SECTION:projects-->
 - [**DesertDashRunner**](https://github.com/JuanJoseLobatonMateos/DesertDashRunner): Juego para Android desarrollado en Unity
-- [**hello-javascript**](https://github.com/JuanJoseLobatonMateos/hello-javascript): Curso para aprender el lenguaje de programación JavaScript desde cero y para principiantes.
 - [**HelloKotlin**](https://github.com/JuanJoseLobatonMateos/HelloKotlin): App que lee por voz lo que se introduce por texto
 - [**JuanJoseLobatonMateos**](https://github.com/JuanJoseLobatonMateos/JuanJoseLobatonMateos): La pasión por la tecnología no tiene edad. A los 40, emprendí un nuevo camino como desarrollador, ¡y estoy emocionado por lo que vendrá!
 - [**MDC**](https://github.com/JuanJoseLobatonMateos/MDC): Este proyecto es una aplicación Android desarrollada en Kotlin, que permite a los usuarios explorar y aplicar diversos componentes de Material Design en sus proyectos.
