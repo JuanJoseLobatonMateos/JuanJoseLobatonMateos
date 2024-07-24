@@ -15,9 +15,9 @@ Soy un desarrollador con experiencia en diversas áreas, incluyendo desarrollo w
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-- [**Nombre del Proyecto 1**](https://github.com/JuanJoseLobatonMateos/proyecto1): Breve descripción del proyecto y su propósito.
-- [**Nombre del Proyecto 2**](https://github.com/JuanJoseLobatonMateos/proyecto2): Breve descripción del proyecto y su propósito.
-- [**Nombre del Proyecto 3**](https://github.com/JuanJoseLobatonMateos/proyecto3): Breve descripción del proyecto y su propósito.
+<!--START_SECTION:projects-->
+<!-- Repositorios se insertarán aquí automáticamente -->
+<!--END_SECTION:projects-->
 
 ## 🛠️ Tecnologías y Herramientas
 
