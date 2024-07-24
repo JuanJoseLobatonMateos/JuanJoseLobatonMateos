@@ -15,7 +15,13 @@ Soy un desarrollador con experiencia en diversas áreas, incluyendo desarrollo w
 Aquí tienes algunos de mis proyectos más destacados:
 
 <!--START_SECTION:projects-->
-<!-- Repositorios se insertarán aquí automáticamente -->
+- [**DesertDashRunner**](https://github.com/JuanJoseLobatonMateos/DesertDashRunner): Juego para Android desarrollado en Unity
+- [**hello-javascript**](https://github.com/JuanJoseLobatonMateos/hello-javascript): Curso para aprender el lenguaje de programación JavaScript desde cero y para principiantes.
+- [**HelloKotlin**](https://github.com/JuanJoseLobatonMateos/HelloKotlin): App que lee por voz lo que se introduce por texto
+- [**JuanJoseLobatonMateos**](https://github.com/JuanJoseLobatonMateos/JuanJoseLobatonMateos): Descripción no disponible
+- [**MDC**](https://github.com/JuanJoseLobatonMateos/MDC): Descripción no disponible
+- [**Stores**](https://github.com/JuanJoseLobatonMateos/Stores): Este proyecto es una aplicación Android desarrollada en Kotlin, que permite a los usuarios gestionar una lista de tiendas. Los usuarios pueden añadir, editar, eliminar y marcar tiendas como favoritas. La aplicación utiliza Room para la persistencia de datos, y sigue el patrón de diseño MVVM para su arquitectura.
+- [**TarjetaCumple**](https://github.com/JuanJoseLobatonMateos/TarjetaCumple): Descripción no disponible
 <!--END_SECTION:projects-->
 
 ## 🛠️ Tecnologías y Herramientas
