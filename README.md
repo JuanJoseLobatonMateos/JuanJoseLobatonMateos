@@ -8,7 +8,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás información sobre mis proy
 
 ## 📝 Sobre mí
 
-Soy un desarrollador con experiencia en diversas áreas, incluyendo desarrollo web, análisis de datos y automatización de procesos. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
+Soy un desarrollador Android con experiencia en el diseño y la implementación de aplicaciones móviles. Tengo un sólido conocimiento en el desarrollo de interfaces de usuario intuitivas y la integración de funcionalidades complejas utilizando Kotlin y las últimas herramientas de Android. Me apasiona explorar nuevas tecnologías, optimizar el rendimiento de las aplicaciones y compartir mis conocimientos con la comunidad de desarrolladores.
 
 ## 🚀 Proyectos Destacados
 
