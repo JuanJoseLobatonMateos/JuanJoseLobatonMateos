@@ -6,7 +6,6 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás información sobre mis proy
   <img src="https://github.com/JuanJoseLobatonMateos/JuanJoseLobatonMateos/assets/154709072/f91aaa53-4f40-4f76-8276-3135e5ee2c25" style="width: 100%; height: auto;">
 </div>
 
-
 ## 📝 Sobre mí
 
 Soy un desarrollador con experiencia en diversas áreas, incluyendo desarrollo web, análisis de datos y automatización de procesos. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
@@ -15,9 +14,9 @@ Soy un desarrollador con experiencia en diversas áreas, incluyendo desarrollo w
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-START_SECTION:projects
-
-END_SECTION:projects
+<!--START_SECTION:projects-->
+<!-- Repositorios se insertarán aquí automáticamente -->
+<!--END_SECTION:projects-->
 
 ## 🛠️ Tecnologías y Herramientas
 
