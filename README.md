@@ -15,9 +15,9 @@ Soy un desarrollador con experiencia en diversas áreas, incluyendo desarrollo w
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-<!--START_SECTION:projects-->
-<!-- Repositorios se insertarán aquí automáticamente -->
-<!--END_SECTION:projects-->
+START_SECTION:projects
+
+END_SECTION:projects
 
 ## 🛠️ Tecnologías y Herramientas
 
