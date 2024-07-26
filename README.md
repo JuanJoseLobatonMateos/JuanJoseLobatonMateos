@@ -19,6 +19,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 - [**HelloKotlin**](https://github.com/JuanJoseLobatonMateos/HelloKotlin): App que lee por voz lo que se introduce por texto
 - [**JuanJoseLobatonMateos**](https://github.com/JuanJoseLobatonMateos/JuanJoseLobatonMateos): La pasión por la tecnología no tiene edad. A los 40, emprendí un nuevo camino como desarrollador, ¡y estoy emocionado por lo que vendrá!
 - [**MDC**](https://github.com/JuanJoseLobatonMateos/MDC): Este proyecto es una aplicación Android desarrollada en Kotlin, que permite a los usuarios explorar y aplicar diversos componentes de Material Design en sus proyectos.
+- [**Snapshots**](https://github.com/JuanJoseLobatonMateos/Snapshots): Proyecto para hacer una app con Firebase Auth y Cloud Storage
 - [**Stores**](https://github.com/JuanJoseLobatonMateos/Stores): Aplicación que permite gestionar una lista de tiendas
 - [**TarjetaCumple**](https://github.com/JuanJoseLobatonMateos/TarjetaCumple): Descripción no disponible
 <!--END_SECTION:projects-->
