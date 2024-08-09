@@ -39,6 +39,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Jetpack%20Compose-3F51B5?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/-XML-006400?style=for-the-badge&logo=android&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </div>
 
 ## 📫 Contacto
