@@ -43,6 +43,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
   <img src="https://img.shields.io/badge/-XML-006400?style=for-the-badge&logo=android&logoColor=white" alt="XML">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+   <img src="https://img.shields.io/badge/-MVC-000000?style=for-the-badge&logo=MVC&logoColor=white" alt="MVC">
 </div>
 
 ## 📫 Contacto
