@@ -23,6 +23,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 - [**MDC**](https://github.com/JuanJoseLobatonMateos/MDC): Este proyecto es una aplicación Android desarrollada en Kotlin, que permite a los usuarios explorar y aplicar diversos componentes de Material Design en sus proyectos.
 - [**politica-privacidad**](https://github.com/JuanJoseLobatonMateos/politica-privacidad): Descripción no disponible
 - [**Snapshots**](https://github.com/JuanJoseLobatonMateos/Snapshots): Proyecto para hacer una app con Firebase Auth y Cloud Storage
+- [**SocialClub---Proyecto-Final-Dam**](https://github.com/JuanJoseLobatonMateos/SocialClub---Proyecto-Final-Dam): Proyecto FInal DAM
 - [**springboot-di**](https://github.com/JuanJoseLobatonMateos/springboot-di): proyecto de pruebas inyección de dependencias
 - [**SpringConAnnotations**](https://github.com/JuanJoseLobatonMateos/SpringConAnnotations): Framework Spring con annotations
 - [**Stores**](https://github.com/JuanJoseLobatonMateos/Stores): Aplicación que permite gestionar una lista de tiendas
