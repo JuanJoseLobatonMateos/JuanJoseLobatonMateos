@@ -15,19 +15,15 @@ Soy un desarrollador Android con experiencia en el diseño y la implementación 
 Aquí tienes algunos de mis proyectos más destacados:
 
 <!--START_SECTION:projects-->
-- [**curso-php**](https://github.com/JuanJoseLobatonMateos/curso-php): curso de php desde 0
-- [**CursoSpring**](https://github.com/JuanJoseLobatonMateos/CursoSpring): Curso iniciación a Framework Spring
 - [**DesertDashRunner**](https://github.com/JuanJoseLobatonMateos/DesertDashRunner): Juego para Android desarrollado en Unity
 - [**HelloKotlin**](https://github.com/JuanJoseLobatonMateos/HelloKotlin): App que lee por voz lo que se introduce por texto
 - [**JuanJoseLobatonMateos**](https://github.com/JuanJoseLobatonMateos/JuanJoseLobatonMateos): La pasión por la tecnología no tiene edad. A los 40, emprendí un nuevo camino como desarrollador, ¡y estoy emocionado por lo que vendrá!
 - [**MDC**](https://github.com/JuanJoseLobatonMateos/MDC): Este proyecto es una aplicación Android desarrollada en Kotlin, que permite a los usuarios explorar y aplicar diversos componentes de Material Design en sus proyectos.
-- [**politica-privacidad**](https://github.com/JuanJoseLobatonMateos/politica-privacidad): Descripción no disponible
 - [**Snapshots**](https://github.com/JuanJoseLobatonMateos/Snapshots): Proyecto para hacer una app con Firebase Auth y Cloud Storage
+- [**SocialClub**](https://github.com/JuanJoseLobatonMateos/SocialClub): Proyecto Final Dam
 - [**SocialClub---Proyecto-Final-Dam**](https://github.com/JuanJoseLobatonMateos/SocialClub---Proyecto-Final-Dam): Proyecto FInal DAM
-- [**springboot-di**](https://github.com/JuanJoseLobatonMateos/springboot-di): proyecto de pruebas inyección de dependencias
-- [**SpringConAnnotations**](https://github.com/JuanJoseLobatonMateos/SpringConAnnotations): Framework Spring con annotations
+- [**SocialClub_app_proyecto**](https://github.com/JuanJoseLobatonMateos/SocialClub_app_proyecto): Descripción no disponible
 - [**Stores**](https://github.com/JuanJoseLobatonMateos/Stores): Aplicación que permite gestionar una lista de tiendas
-- [**TarjetaCumple**](https://github.com/JuanJoseLobatonMateos/TarjetaCumple): Descripción no disponible
 <!--END_SECTION:projects-->
 
 ## 🛠️ Tecnologías y Herramientas
