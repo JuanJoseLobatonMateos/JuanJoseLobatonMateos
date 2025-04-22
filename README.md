@@ -22,7 +22,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 - [**Snapshots**](https://github.com/JuanJoseLobatonMateos/Snapshots): Proyecto para hacer una app con Firebase Auth y Cloud Storage
 - [**SocialClub**](https://github.com/JuanJoseLobatonMateos/SocialClub): Proyecto Final Dam
 - [**SocialClub---Proyecto-Final-Dam**](https://github.com/JuanJoseLobatonMateos/SocialClub---Proyecto-Final-Dam): Proyecto FInal DAM
-- [**SocialClub_app_proyecto**](https://github.com/JuanJoseLobatonMateos/SocialClub_app_proyecto): Descripción no disponible
+- [**SocialClub_app_proyecto**](https://github.com/JuanJoseLobatonMateos/SocialClub_app_proyecto): Social Club App - Aplicación Móvil para Socios
 - [**Stores**](https://github.com/JuanJoseLobatonMateos/Stores): Aplicación que permite gestionar una lista de tiendas
 <!--END_SECTION:projects-->
 
