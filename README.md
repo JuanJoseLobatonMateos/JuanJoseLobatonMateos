@@ -24,6 +24,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 - [**SocialClub---Proyecto-Final-Dam**](https://github.com/JuanJoseLobatonMateos/SocialClub---Proyecto-Final-Dam): Proyecto FInal DAM
 - [**SocialClub_app_proyecto**](https://github.com/JuanJoseLobatonMateos/SocialClub_app_proyecto): Social Club App - Aplicación Móvil para Socios
 - [**Stores**](https://github.com/JuanJoseLobatonMateos/Stores): Aplicación que permite gestionar una lista de tiendas
+- [**wllaboost-kotlin**](https://github.com/JuanJoseLobatonMateos/wllaboost-kotlin): app subida wallapop con ia
 <!--END_SECTION:projects-->
 
 ## 🛠️ Tecnologías y Herramientas
